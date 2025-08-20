@@ -10,6 +10,6 @@
 * ![Git#](assets/git.png)
 
 ## Software
-![VSCode](assets/vscode32.png)
-![Zed](assets/zed32.png)
-![rustrover](assets/rustrover32.png)
+* ![VSCode](assets/vscode32.png)
+* ![Zed](assets/zed32.png)
+* ![rustrover](assets/rustrover32.png)
