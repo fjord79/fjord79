@@ -6,6 +6,7 @@
 * ![C#](assets/csharp.png)
 * ![Rust](assets/rust.png)
 * ![Go](assets/go.png)
+* ![Java](assets/java.png)
 * ![Bash](assets/bash.png)
 * ![Git#](assets/git.png)
 
